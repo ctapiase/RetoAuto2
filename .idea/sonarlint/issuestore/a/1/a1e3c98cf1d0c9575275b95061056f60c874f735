@@ -1,0 +1,16 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(õÕÅ¶8¾Ò¤á1
+Q
+java:S3740"/Provide the parametrized type for this generic.(üÖ‹üÿÿÿÿ8¾Ò¤á1
+†
+java:S1319"iThe type of "productos" should be an interface such as "List" rather than the implementation "ArrayList".(¤Å›Ù8¿Ò¤á1
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(õÕÅ¶8¿Ò¤á1
+‹
+java:S1319"iThe type of "productos" should be an interface such as "List" rather than the implementation "ArrayList".(üÖ‹üÿÿÿÿ8¿Ò¤á1
+r
+java:S1104"UMake productos a static final constant or non-public and provide accessors if needed.(¤Å›Ù8¿Ò¤á1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿Ô‚ñúÿÿÿÿ8ÄÒ¤á1
+L	java:S106"+Replace this use of System.out by a logger.(„ï´ÿÿÿÿÿ8ùü¤á1
