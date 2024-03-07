@@ -5,43 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dd42691-45a5-416e-90fe-2347530bd364" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/interactions/AddProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/interactions/ListProd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/interactions/ViewProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/man2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/models/ProductsLoombok.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/questions/ValidateProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/tasks/ChooseCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/tasks/ChoseProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/userinterface/CarShopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/userinterface/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/userinterface/MenuCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/userinterface/ProductsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/utils/GlobalData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/autostoreexito/runners/StoreRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/autostoreexito/stepdefinitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/autostoreexito/stepdefinitions/StoreStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/store_exito.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0df0692474790f54a4c1844a50d15f26c22068ef" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0df0692474790f54a4c1844a50d15f26c22068ef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bcdbd3ca8d40d325cdec44fafe9d4789facdf2ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c39f2f31d450cefca9c6666070748a59fc069c8a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2dae6403f9183da49a6ad535827ab3398aedaf1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2dae6403f9183da49a6ad535827ab3398aedaf1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/c/bcdbd3ca8d40d325cdec44fafe9d4789facdf2ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/3/c39f2f31d450cefca9c6666070748a59fc069c8a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/man2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/questions/ValidateProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/autostoreexito/questions/ValidateProducts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +44,12 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2dH1smHdqxX1TEjIVnJ0kPdglBo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -83,9 +64,9 @@
     "Gradle.StoreRunner.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ctapiase/Documents/Plan de formacion/RetoTecnico/RetoAutoExito/AutoStoreExito/src/test/resources"
+    "last_opened_file_path": "C:/Users/ctapiase/Documents/RetoAutoGit/RetoAuto2"
   }
 }]]></component>
   <component name="RecentsManager">

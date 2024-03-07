@@ -1,8 +1,6 @@
 
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-S
-#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 t
 Dsrc/main/java/co/com/choucair/certificacion/autostoreexito/Main.java,d\c\dc4edbed3a3b2e56d5c3f270533ee52791d8045a
 C
@@ -16,11 +14,7 @@ Psrc/main/java/co/com/choucair/certificacion/autostoreexito/utils/GlobalData.jav
 g
 7src/test/java/autostoreexito/stepdefinitions/Hooks.java,0\7\0724834fdfd4afd820827d6987a31a3d7c125c03
 
-Osrc/test/java/co/com/choucair/certificacion/autostoreexito/tasks/ChooseCat.java,c\3\c39f2f31d450cefca9c6666070748a59fc069c8a
-
 Osrc/main/java/co/com/choucair/certificacion/autostoreexito/tasks/ChooseCat.java,6\0\60db23f61b2e17cb8cacc28c2468e183943e858e
-ƒ
-Ssrc/main/java/co/com/choucair/certificacion/autostoreexito/models/MenuCategory.java,b\c\bcdbd3ca8d40d325cdec44fafe9d4789facdf2ac
 Š
 Zsrc/main/java/co/com/choucair/certificacion/autostoreexito/userinterface/MenuCategory.java,7\2\72e17cc8f8a637546c5c8ffd695cd9a30eb92908
 †
@@ -43,3 +37,8 @@ Zsrc/main/java/co/com/choucair/certificacion/autostoreexito/questions/ValidatePr
 Ysrc/main/java/co/com/choucair/certificacion/autostoreexito/interactions/ViewProducts.java,0\5\05fb30efe107566541de417709e2013916e1ad02
 ‰
 Ysrc/main/java/co/com/choucair/certificacion/autostoreexito/userinterface/CarShopping.java,0\1\01f70cedb0a597f4f2d1ff32f85aabb207d32b06
+_
+/src/test/resources/features/store_exito.feature,3\f\3f52c66e98092cc25944f63434a40766386c1f73
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
