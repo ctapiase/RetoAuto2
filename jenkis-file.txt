@@ -1,0 +1,30 @@
+pipeline{
+    agent any
+    tools{
+        gradle "gradle"
+    }
+    stages{  
+        stage('Clone repository'){
+            steps{
+                    git branch: 'main', url:'https://github.com/ctapiase/RetoAuto2.git'
+            }
+        }
+        stage('Build the project'){
+            steps{
+                bat 'gradle build'
+            }
+        }
+        stage('Tests'){
+            steps{
+                bat 'gradle test'
+            }
+        }
+        stage('SonarQube analysis') {
+            steps{
+                withSonarQubeEnv('sonarqube') { // Will pick the global server connection you have configured
+                    bat './gradlew sonarqube'
+                }
+            }
+        }
+    }
+}
